@@ -2,7 +2,7 @@ import React from 'react';
 
 const services = [
   {
-    title: "UX/UI DESIGN",
+    title: "UX/UI DESIGN TESTTT",
     icon: "/services/ux.png",
     items: ["User personas and paths", "User testing & evaluations", "Wireframes and prototypes", "Design systems"]
   },
